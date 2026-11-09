@@ -1,0 +1,6 @@
+{
+  "name": "GourmetAI - Expert Culinary & Recipe Assistant",
+  "description": "Your expert AI cooking companion for discovering, personalizing, and step-by-step cooking recipes, pantry matching, ingredient substitutions, and kitchen scaling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
